@@ -9,7 +9,7 @@ A tech-savvy enthusiast with a knack for coding, electronics, and project develo
 * 🌍  I'm based in Punjab, India
 * ✉️  You can contact me at [saafreen277@gmail.com](mailto:saafreen277@gmail.com)
 * 🧠  I'm learning working on electric hoverboards based with wireless charging.
-* ⚡  Poet in lower cases
+* ⚡  A poet in lower cases
 
 ### Skills
 
