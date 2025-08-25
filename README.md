@@ -3,9 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Tech enthusiast, Passionate coder, Learner
 ------------------------------------------
-<p align="center">
-  <img src="https://v.ftcdn.net/06/14/25/21/700_F_614252118_ZJwBH8j9nkgLN8bP8isKxgcx14R3LTt1_ST.mp4" alt="Background GIF" width="100%" />
-</p>
+<video width="100%" controls autoplay loop muted>
+  <source src="https://v.ftcdn.net/06/14/25/21/700_F_614252118_ZJwBH8j9nkgLN8bP8isKxgcx14R3LTt1_ST.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h1 align="center">Hi, I'm Saba Aafreen 👋</h1>
 <p align="center">Tech enthusiast • Passionate coder • Learner</p>
