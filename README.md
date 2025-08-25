@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Tech enthusiast, Passionate coder, Learner
 ------------------------------------------
 <p align="center">
-  <img src="C:\Users\LENOVO\Downloads" alt="Background GIF" width="100%" />
+  <img src="https://v.ftcdn.net/06/14/25/21/700_F_614252118_ZJwBH8j9nkgLN8bP8isKxgcx14R3LTt1_ST.mp4" alt="Background GIF" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Saba Aafreen 👋</h1>
