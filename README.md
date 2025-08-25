@@ -3,7 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Tech enthusiast, Passionate coder, Learner
 ------------------------------------------
+<p align="center">
+  <img src="https://your-gif-url.gif" alt="Background GIF" width="100%" />
+</p>
 
+<h1 align="center">Hi, I'm Saba Aafreen 👋</h1>
+<p align="center">Tech enthusiast • Passionate coder • Learner</p>
 A tech-savvy enthusiast with a knack for coding, electronics, and project development, I bring a solid foundation in programming languages, microcontroller platforms, and web technologies. From crafting innovative solutions to collaborating in dynamic teams, I'm driven to leverage my skills of designing and experiences to drive technological advancements.
 
 * 🌍  I'm based in Punjab, India
