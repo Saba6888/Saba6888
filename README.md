@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Tech enthusiast, Passionate coder, Learner
 ------------------------------------------
 <p align="center">
-  <img src=""C:\Users\LENOVO\Downloads" alt="nightcity" alt="Background GIF" width="100%" />
+  <img src="C:\Users\LENOVO\Downloads" alt="Background GIF" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Saba Aafreen 👋</h1>
