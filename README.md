@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Saba_bg.gif" alt="Saba_bg" style="width:100%; style="height:10px; object-fit:cover;" />
+  <img src="./Saba_bg.gif" alt="Saba_bg" style="width:80%; style="height:10px; object-fit:cover;" />
 </p>
 
 <p align="center"><b>Tech enthusiast • Passionate coder • Learner</b></p>
