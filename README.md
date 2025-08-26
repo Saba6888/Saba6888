@@ -1,6 +1,6 @@
-<video width="100%" controls autoplay loop muted>
-  <source src="https://v.ftcdn.net/06/14/25/21/700_F_614252118_ZJwBH8j9nkgLN8bP8isKxgcx14R3LTt1_ST.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="./saba_bg.gif" width="500" alt="Saba's Hoverboard">
+</p>
 
 <h1 align="center">Hello World, This is Saba! </h1>
 <p align="center">Tech enthusiast • Passionate coder • Learner</p>
