@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/32/87/18/3287189581d3955e85b5281ab2445241.jpg" alt="background" width="100%" />
+  <img src="https://i.pinimg.com/736x/32/87/18/3287189581d3955e85b5281ab2445241.jpg" alt="background" width="100%" height=50% />
 </p>
 
 <h1 align="center">Hello World, This is Saba! </h1>
