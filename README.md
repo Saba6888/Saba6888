@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Saba_bg.gif" style="width:100%; max-height:200px; object-fit:cover;">
+  <img src="./Saba_bg.gif" style="width:100%; max-height:10px; object-fit:cover;">
 </p>
 
 <h1 align="center">Hello World, This is Saba! </h1>
