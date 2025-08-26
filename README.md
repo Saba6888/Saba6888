@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/32/87/18/3287189581d3955e85b5281ab2445241.jpg" alt="background" width="50%" />
-</p>
+<video width="100%" controls autoplay loop muted>
+  <source src="https://v.ftcdn.net/06/14/25/21/700_F_614252118_ZJwBH8j9nkgLN8bP8isKxgcx14R3LTt1_ST.mp4" type="video/mp4">
+</video>
 
 <h1 align="center">Hello World, This is Saba! </h1>
 <p align="center">Tech enthusiast • Passionate coder • Learner</p>
 A tech-savvy enthusiast with a knack for coding, electronics, and project development, I bring a solid foundation in programming languages, microcontroller platforms, and web technologies. From crafting innovative solutions to collaborating in dynamic teams, I'm driven to leverage my skills of designing and experiences to drive technological advancements.
 
-* 🌍  I'm based in Punjab, India
+* 🌍  I'm based in Jamshedpur, Jharkhand.
 * ✉️  You can contact me at [saafreen277@gmail.com](mailto:saafreen277@gmail.com)
-* 🧠  I'm learning working on electric hoverboards based with wireless charging.
+* 🧠  I'm currently looking to kick-start my career in an esteemed company as an ML engineer.
 * ⚡  A poet in lower cases
 
 ### Skills
