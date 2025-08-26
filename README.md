@@ -1,12 +1,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/32/87/18/3287189581d3955e85b5281ab2445241.jpg" alt="background" width="100%" />
 </p>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saba Aafreen
-====================================================================================================================================
 
-Tech enthusiast, Passionate coder, Learner
-------------------------------------------
-<h1 align="center">Hi, I'm Saba Aafreen 👋</h1>
+<h1 align="center">Hello World, This is Saba! </h1>
 <p align="center">Tech enthusiast • Passionate coder • Learner</p>
 A tech-savvy enthusiast with a knack for coding, electronics, and project development, I bring a solid foundation in programming languages, microcontroller platforms, and web technologies. From crafting innovative solutions to collaborating in dynamic teams, I'm driven to leverage my skills of designing and experiences to drive technological advancements.
 
